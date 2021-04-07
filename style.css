@@ -1,0 +1,30 @@
+body{
+    color: white;
+}
+.tab-inner{
+    color: white;
+    text-decoration: none;
+}
+.tab{
+    color: white;
+    font-weight: bold;
+    padding: 0 5%;
+    margin-right: 10%;
+}
+.bg{
+    background-color: black;
+}
+.bg-mid{
+    background-color: #363d47;
+}
+
+.tab:hover{
+    border-bottom: 4px solid #fa2635;
+    color: #fa2635;
+}
+.b-left{
+    border-left: 4px solid #fa2635;
+}
+.bold{
+    font-weight: bold;
+}
